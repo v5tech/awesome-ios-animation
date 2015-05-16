@@ -7,7 +7,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 > 排名先后顺序按个人喜好，不代表大众意愿。望见谅！
 
 > 该列表不定期更新！
- 
+
 https://github.com/facebook/pop
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
@@ -195,3 +195,46 @@ https://github.com/facebook/pop
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
+https://github.com/andreamazz/BubbleTransition
+
+![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
+![BubbleTransition](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
+
+https://github.com/carsonperrotti/CNPPopupController
+
+![](https://raw.githubusercontent.com/carsonperrotti/CNPPopupController/master/CNPPopupControllerExample/CNPPopupController.gif)
+
+https://github.com/MartinRGB/GiftCard-Implementation
+
+![origami](https://github.com/MartinRGB/GiftCard-Implementation/blob/master/Gif/Origami.gif?raw=true)
+![xcode](https://github.com/MartinRGB/GiftCard-Implementation/blob/master/Gif/Xcode.gif?raw=true)
+
+https://github.com/Draveness/DKChainableAnimationKit
+
+![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/DKChainableAnimationKit.jpg)
+![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code1.png)
+![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo1.gif)
+![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code2.png)
+![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
+
+https://github.com/cwRichardKim/TinderSimpleSwipeCards
+
+![alt tag](http://imgur.com/4bYw12e.gif)
+![alt tag](http://i.imgur.com/krDNpR0.gif)
+![alt tag](http://i.imgur.com/W4bIRkc.gif)
+![alt tag](http://i.imgur.com/3yk6aiS.gif)
+![alt tag](http://i.imgur.com/IIFVkm4.gif)
+![alt tag](http://i.imgur.com/j1ISIq5.gif)
+![alt tag](http://i.imgur.com/PQYs4sH.gif)
+
+https://github.com/jonathantribouharet/JTMaterialTransition
+
+![](https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif)
+
+https://github.com/kongtomorrow/WatchTransition
+
+![Screenshot](https://github.com/kongtomorrow/WatchTransition/raw/master/WatchFaceTransition.gif)
+
+https://github.com/KittenYang/KYPushTransition
+
+![](https://raw.githubusercontent.com/KittenYang/KYPushTransition/master/demo.gif)
