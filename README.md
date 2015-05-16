@@ -195,6 +195,10 @@ https://github.com/facebook/pop
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
+https://github.com/Ramotion/animated-tab-bar
+
+![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
+
 https://github.com/andreamazz/BubbleTransition
 
 ![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
@@ -238,3 +242,60 @@ https://github.com/kongtomorrow/WatchTransition
 https://github.com/KittenYang/KYPushTransition
 
 ![](https://raw.githubusercontent.com/KittenYang/KYPushTransition/master/demo.gif)
+
+https://github.com/andreamazz/UIView-Shake
+
+![](https://raw.githubusercontent.com/andreamazz/UIView-Shake/master/assetsassets/logo.png)
+![UIView+Shake](https://raw.githubusercontent.com/andreamazz/UIView-Shake/master/assets/screenshot.gif)
+
+https://github.com/andreamazz/UITextField-Shake
+
+![](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/logo.png)
+![UITextField+Shake](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/screenshot.gif)
+
+https://github.com/recruit-mp/RMPZoomTransitionAnimator
+
+![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/collectionview.gif)
+![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/tableview.gif)
+
+https://github.com/xhzengAIB/PopMenu
+
+![image](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/XHSinaMenuViewExample.gif)
+
+https://github.com/zoonooz/ZFDragableModalTransition
+
+![](https://raw.githubusercontent.com/zoonooz/ZFDragableModalTransition/master/Screenshot/ss.gif)
+
+https://github.com/adad184/MMTweenAnimation
+
+![](https://raw.githubusercontent.com/adad184/MMTweenAnimation/master/Images/demo.gif)
+
+https://github.com/andreamazz/GearRefreshControl
+
+![](https://raw.githubusercontent.com/andreamazz/GearRefreshControl/master/assets/screenshot.gif)
+
+https://github.com/LiorNn/DragDropCollectionView
+
+![](https://raw.githubusercontent.com/LiorNn/DragDropCollectionView/master/demo.gif)
+
+https://github.com/rounak/TwitterBirdAnimation
+
+![twitter bird animation](http://media.tumblr.com/10cc0ba92377a2cba9fb35c9943fd2ca/tumblr_inline_n6zpokNxpC1qh9cw7.gif)
+
+https://github.com/haaakon/SingleLineShakeAnimation
+
+![](https://raw.githubusercontent.com/haaakon/SingleLineShakeAnimation/master/example.gif)
+
+https://github.com/zipme/RQShineLabel
+
+![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
+
+https://github.com/lexrus/LTMorphingLabel
+
+![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3491840/173c2238-059e-11e4-9b33-dcd21edae9e2.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3491845/29bb0f8c-059e-11e4-9ef8-de56bec1baba.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3508789/31e9fafe-0690-11e4-9a76-ba3ef45eb53a.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3582586/4fb8c52e-0bfe-11e4-9b6f-f070f7f3ab55.gif)
+![](https://cloud.githubusercontent.com/assets/219689/3594949/815cd3e8-0caa-11e4-9738-278a9c959478.gif)
