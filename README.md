@@ -270,6 +270,24 @@ https://github.com/zoonooz/ZFDragableModalTransition
 
 ![](https://raw.githubusercontent.com/zoonooz/ZFDragableModalTransition/master/Screenshot/ss.gif)
 
+https://github.com/mathcarignani/MCMHeaderAnimated
+
+![](https://raw.githubusercontent.com/mathcarignani/MCMHeaderAnimated/master/demo.gif)
+
+https://github.com/Produkt/RubberBandEffect
+
+![rubber-band01](https://raw.githubusercontent.com/Produkt/RubberBandEffect/master/Others/RubberBand_01.gif) 
+
+![rubber-band02](https://raw.githubusercontent.com/Produkt/RubberBandEffect/master/Others/RubberBand_02.gif)
+
+https://github.com/icanzilb/EasyAnimation
+
+![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/EA.png)
+![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/moveX.gif)
+![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/corners.gif)
+![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/spring.gif)
+![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/chain.gif)
+
 https://github.com/adad184/MMTweenAnimation
 
 ![](https://raw.githubusercontent.com/adad184/MMTweenAnimation/master/Images/demo.gif)
