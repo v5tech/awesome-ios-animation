@@ -325,3 +325,23 @@ https://github.com/lexrus/LTMorphingLabel
 https://github.com/wongzigii/WZDraggableSwitchHeaderView
 
 ![](https://raw.githubusercontent.com/wongzigii/WZDraggableSwitchHeaderView/master/GIF/WZAnimatingTransition.gif)
+
+https://github.com/zhxnlai/ZLSwipeableViewSwift
+
+![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/animation.gif)
+
+![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/swipe.gif)
+
+![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/direction.gif)
+
+![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/undo.gif)
+
+https://github.com/zhxnlai/ZLSwipeableView/
+
+![swipe](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipe.gif)
+
+![cancel](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipeCancel.gif)
+
+![swipeLeft](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipeLeft.gif)
+
+![swipeLeftRight](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipeLeftRight.gif)
