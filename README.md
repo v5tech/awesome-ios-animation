@@ -197,7 +197,7 @@ https://github.com/facebook/pop
 
 https://github.com/Yalantis/PullToMakeSoup
 
-![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoup/Recources/recipe-finder.gif)
+![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
 https://github.com/Ramotion/animated-tab-bar
 
