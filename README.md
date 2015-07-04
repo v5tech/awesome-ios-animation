@@ -199,6 +199,10 @@ https://github.com/Yalantis/PullToMakeSoup
 
 ![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
+https://github.com/Yalantis/Koloda
+
+![](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_example_animation.gif)
+
 https://github.com/Ramotion/animated-tab-bar
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
