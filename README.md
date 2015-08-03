@@ -349,3 +349,7 @@ https://github.com/zhxnlai/ZLSwipeableView/
 ![swipeLeft](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipeLeft.gif)
 
 ![swipeLeftRight](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipeLeftRight.gif)
+
+https://github.com/CezaryKopacz/CKWaveCollectionViewTransition
+
+![anim.gif](http://i.giphy.com/3o85xyoYepG177Bhte.gif)
