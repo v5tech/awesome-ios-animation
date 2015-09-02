@@ -353,3 +353,9 @@ https://github.com/zhxnlai/ZLSwipeableView/
 https://github.com/CezaryKopacz/CKWaveCollectionViewTransition
 
 ![anim.gif](http://i.giphy.com/3o85xyoYepG177Bhte.gif)
+
+https://github.com/yoavlt/LiquidFloatingActionButton
+
+![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
+
+![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
