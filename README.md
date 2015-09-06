@@ -359,3 +359,7 @@ https://github.com/yoavlt/LiquidFloatingActionButton
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
+
+https://github.com/ninjaprox/NVActivityIndicatorView
+
+![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
