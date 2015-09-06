@@ -374,3 +374,7 @@ http://download.jikexueyuan.com/detail/id/1301
 https://github.com/KittenYang/Animations
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/KittenYang/Animations/master/GooeySlideMenu.gif)
+
+https://github.com/likedan/KDIntroView
+
+![Demo GIF Animation](https://raw.githubusercontent.com/likedan/KDIntroView/master/Imgs/showup.gif)
