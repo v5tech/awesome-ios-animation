@@ -378,3 +378,7 @@ https://github.com/KittenYang/Animations
 https://github.com/likedan/KDIntroView
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/likedan/KDIntroView/master/Imgs/showup.gif)
+
+https://github.com/IFTTT/RazzleDazzle
+
+![Demo GIF Animation](https://raw.githubusercontent.com/IFTTT/RazzleDazzle/master/Example/Docs/razzledazzle-demo.gif)
