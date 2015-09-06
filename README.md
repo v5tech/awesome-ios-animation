@@ -363,3 +363,7 @@ https://github.com/yoavlt/LiquidFloatingActionButton
 https://github.com/ninjaprox/NVActivityIndicatorView
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
+
+https://github.com/entotsu/TKSubmitTransition
+
+![Demo GIF Animation](https://github.com/entotsu/TKSubmitTransition/blob/master/demo.gif)
