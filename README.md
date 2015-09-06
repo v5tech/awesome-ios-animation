@@ -370,3 +370,7 @@ https://github.com/entotsu/TKSubmitTransition
 http://download.jikexueyuan.com/detail/id/1301
 
 ![Demo GIF Animation](http://download.jikexueyuan.com/File/image/e224fc4d0c362305fa498b371cfac4c9_318513_189_4c21143928442461801bae5ac596c.gif)
+
+https://github.com/KittenYang/Animations
+
+![Demo GIF Animation](https://raw.githubusercontent.com/KittenYang/Animations/master/GooeySlideMenu.gif)
