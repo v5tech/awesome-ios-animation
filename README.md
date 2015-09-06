@@ -390,3 +390,7 @@ https://github.com/hyperoslo/Presentation
 https://github.com/nshintio/uicollectionview-reordering
 
 ![Demo GIF Animation](https://camo.githubusercontent.com/ee5e5999dea79c81a09416a51b1e6cec5de3a193/687474703a2f2f6e7368696e742e696f2f696d616765732f7569636f6c6c656374696f6e766965772d72656f72646572696e672f342e676966)
+
+https://github.com/chinsyo/uber-video-welcome
+
+![Demo GIF Animation](https://raw.githubusercontent.com/chinsyo/uber-video-welcome/master/uber-video-welcome.gif)
