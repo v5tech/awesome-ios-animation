@@ -357,7 +357,6 @@ https://github.com/CezaryKopacz/CKWaveCollectionViewTransition
 https://github.com/yoavlt/LiquidFloatingActionButton
 
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
-
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
 https://github.com/ninjaprox/NVActivityIndicatorView
@@ -367,3 +366,7 @@ https://github.com/ninjaprox/NVActivityIndicatorView
 https://github.com/entotsu/TKSubmitTransition
 
 ![Demo GIF Animation](https://github.com/entotsu/TKSubmitTransition/blob/master/demo.gif)
+
+http://download.jikexueyuan.com/detail/id/1301
+
+![Demo GIF Animation](http://download.jikexueyuan.com/File/image/e224fc4d0c362305fa498b371cfac4c9_318513_189_4c21143928442461801bae5ac596c.gif)
