@@ -394,3 +394,13 @@ https://github.com/nshintio/uicollectionview-reordering
 https://github.com/chinsyo/uber-video-welcome
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/chinsyo/uber-video-welcome/master/uber-video-welcome.gif)
+
+https://github.com/yoavlt/LiquidLoader
+
+GrowCircle
+
+![GrowCircle](https://github.com/yoavlt/LiquidLoader/blob/master/Demo/grow-circle.gif?raw=true)
+
+GrowLine
+
+![GrowLine](https://github.com/yoavlt/LiquidLoader/blob/master/Demo/grow-line.gif?raw=true)
