@@ -203,6 +203,10 @@ https://github.com/Yalantis/Koloda
 
 ![](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_example_animation.gif)
 
+https://github.com/Yalantis/StarWars.iOS
+
+![](https://yalantis.com/media/content/ckeditor/2015/10/20/star_wars-shot.gif)
+
 https://github.com/Ramotion/animated-tab-bar
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
