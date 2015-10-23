@@ -28,7 +28,7 @@ https://github.com/facebook/pop
 
  https://github.com/jwilling/JNWSpringAnimation
 
-![](http://appjon.com/assets/github/JNWSpringAnimation.gif)
+![](http://jwilling.com/serve/github/jnwspringanimation/preview.gif)
 
  https://github.com/daltoniam/DCAnimationKit
 
@@ -201,7 +201,8 @@ https://github.com/Yalantis/PullToMakeSoup
 
 https://github.com/Yalantis/Koloda
 
-![](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_example_animation.gif)
+![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
+![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
 
 https://github.com/Yalantis/StarWars.iOS
 
@@ -257,7 +258,7 @@ https://github.com/KittenYang/KYPushTransition
 
 https://github.com/andreamazz/UIView-Shake
 
-![](https://raw.githubusercontent.com/andreamazz/UIView-Shake/master/assetsassets/logo.png)
+![](https://raw.githubusercontent.com/andreamazz/UIView-Shake/master/assets/logo.png)
 ![UIView+Shake](https://raw.githubusercontent.com/andreamazz/UIView-Shake/master/assets/screenshot.gif)
 
 https://github.com/andreamazz/UITextField-Shake
