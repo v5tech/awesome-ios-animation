@@ -422,3 +422,7 @@ https://github.com/seedante/CardAnimation
 https://github.com/AlexCatch/ACAnimatedTextField
 
 ![Preview](https://raw.githubusercontent.com/AlexCatch/ACAnimatedTextField/master/misc/preview.gif)
+
+https://github.com/ephread/Instructions
+
+![Instructions Demo](http://i.imgur.com/JUlQH9F.gif)
