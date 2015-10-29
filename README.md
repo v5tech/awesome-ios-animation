@@ -199,6 +199,10 @@ https://github.com/Yalantis/PullToMakeSoup
 
 ![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
+https://github.com/Yalantis/PullToMakeFlight
+
+![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)
+
 https://github.com/Yalantis/Koloda
 
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
@@ -208,9 +212,9 @@ https://github.com/Yalantis/StarWars.iOS
 
 ![](https://yalantis.com/media/content/ckeditor/2015/10/20/star_wars-shot.gif)
 
-https://github.com/Yalantis/PullToMakeFlight
+https://github.com/Yalantis/EatFit
 
-![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)
+![Preview](https://yalantis.com/media/content/ckeditor/2015/09/30/charts-animation.gif)
 
 https://github.com/Ramotion/animated-tab-bar
 
