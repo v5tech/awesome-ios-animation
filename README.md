@@ -216,6 +216,12 @@ https://github.com/Yalantis/EatFit
 
 ![Preview](https://yalantis.com/media/content/ckeditor/2015/09/30/charts-animation.gif)
 
+https://github.com/Yalantis/Preloader.Ophiuchus
+
+![Yalantis](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/yalantistwodirections.gif)
+![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
+![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
+
 https://github.com/Ramotion/animated-tab-bar
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
