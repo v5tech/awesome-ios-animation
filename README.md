@@ -208,6 +208,10 @@ https://github.com/Yalantis/StarWars.iOS
 
 ![](https://yalantis.com/media/content/ckeditor/2015/10/20/star_wars-shot.gif)
 
+https://github.com/Yalantis/PullToMakeFlight
+
+![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)
+
 https://github.com/Ramotion/animated-tab-bar
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
