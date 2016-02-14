@@ -99,77 +99,15 @@ https://github.com/facebook/pop
 
  https://github.com/shu223/AnimatedTransitionGallery
 
-![https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gallery.gif](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gallery.gif)
-
- https://github.com/ColinEberhardt/VCTransitionsLibrary
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Flip/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Fold/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Crossfade/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Explode/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/1a.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cards/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/NatGeo/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Portal/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cube/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Pan/pan_2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Fold/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Fold/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Fold/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Fold/4.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Flip/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Flip/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Flip/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Flip/4.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/NatGeo/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/NatGeo/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/NatGeo/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/NatGeo/4.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/4.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/1a.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/2a.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/3a.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Turn/4a.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Crossfade/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Crossfade/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Crossfade/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Crossfade/4.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Explode/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Explode/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Explode/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Explode/4.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cards/1.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cards/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cards/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cards/4.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Portal/4.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Portal/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Portal/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Portal/1.png)
-
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cube/4.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cube/3.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cube/2.png)
-![](https://raw.githubusercontent.com/ColinEberhardt/VCTransitionsLibrary/master/Screenshots/thumbnails/Cube/1.png)
+![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif)
+![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/coreimage.gif)
+![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/motionblur.gif)
+![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/boxblur.gif)
 
  https://github.com/Raizlabs/RZTransitions
 
 ![](https://raw.githubusercontent.com/Raizlabs/RZTransitions/master/Web/RZTransitions.png)
 ![](http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif)
-
- https://github.com/honcheng/PaperFold-for-iOS
-
-![](https://raw.githubusercontent.com/honcheng/PaperFold-for-iOS/master/Screenshots/leftfold.gif)
-![](https://github.com/honcheng/PaperFold-for-iOS/raw/master/Screenshots/rightfold.gif)
 
  https://github.com/Yalantis/FoldingTabBar.iOS
 
@@ -210,7 +148,7 @@ https://github.com/Yalantis/Koloda
 
 https://github.com/Yalantis/StarWars.iOS
 
-![](https://yalantis.com/media/content/ckeditor/2015/10/20/star_wars-shot.gif)
+![](https://yalantis-com.s3.amazonaws.com/uploads/ckeditor/pictures/49/content_star_wars-shot__1_.gif)
 
 https://github.com/Yalantis/EatFit
 
