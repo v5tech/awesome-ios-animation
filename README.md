@@ -169,6 +169,11 @@ https://github.com/andreamazz/BubbleTransition
 ![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
 ![BubbleTransition](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
 
+https://github.com/fitomad/iOS-Bubble-Transition
+
+![Bubble Transition](https://github.com/fitomad/iOS-Bubble-Transition/blob/master/Bubble.gif?raw=true)
+
+
 https://github.com/carsonperrotti/CNPPopupController
 
 ![](https://raw.githubusercontent.com/carsonperrotti/CNPPopupController/master/CNPPopupControllerExample/CNPPopupController.gif)
