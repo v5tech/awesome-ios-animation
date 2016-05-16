@@ -413,3 +413,7 @@ https://github.com/PhilippeBoisney/AlertOnboarding
 https://github.com/hanton/HTYTextField
 
 ![image](https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif)
+
+https://github.com/manuelescrig/MEVHorizontalContacts
+
+![MEVHorizontalContacts](https://cloud.githubusercontent.com/assets/1849990/15137846/645a0d18-168c-11e6-96e2-651d8f8de3b0.gif)
