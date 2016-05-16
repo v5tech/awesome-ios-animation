@@ -405,3 +405,7 @@ https://github.com/zekunyan/TTGEmojiRate
 
 ![Screenshot](http://7nj2iz.com1.z0.glb.clouddn.com/TTGEmojiRate_screenshot2.gif)
 ![Screenshot](http://7nj2iz.com1.z0.glb.clouddn.com/TTGEmojiRate_IBExample.png)
+
+https://github.com/PhilippeBoisney/AlertOnboarding
+
+![Screenshot](https://github.com/PhilippeBoisney/AlertOnboarding/blob/master/screenshot.png)
