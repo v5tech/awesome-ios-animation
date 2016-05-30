@@ -425,3 +425,7 @@ https://github.com/Ramotion/preview-transition
 https://github.com/Ramotion/expanding-collection
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
+
+https://github.com/daltonclaybrook/tween-controller
+
+![image](https://raw.githubusercontent.com/daltonclaybrook/tween-controller/master/example.gif)
