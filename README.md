@@ -429,3 +429,8 @@ https://github.com/Ramotion/expanding-collection
 https://github.com/daltonclaybrook/tween-controller
 
 ![image](https://raw.githubusercontent.com/daltonclaybrook/tween-controller/master/example.gif)
+
+https://github.com/manuelescrig/MEVFloatingButton
+
+![MEVFloatingButton](https://cloud.githubusercontent.com/assets/1849990/13462466/db001be6-e087-11e5-92a1-79c8ecefb715.gif)
+ 
