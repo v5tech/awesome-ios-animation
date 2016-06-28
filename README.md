@@ -433,4 +433,10 @@ https://github.com/daltonclaybrook/tween-controller
 https://github.com/manuelescrig/MEVFloatingButton
 
 ![MEVFloatingButton](https://cloud.githubusercontent.com/assets/1849990/13462466/db001be6-e087-11e5-92a1-79c8ecefb715.gif)
+
+https://github.com/xhamr/fave-button
+
+![FaveButton](https://raw.githubusercontent.com/xhamr/fave-button/master/fave-button1.gif)
+
+
  
