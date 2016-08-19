@@ -438,5 +438,7 @@ https://github.com/xhamr/fave-button
 
 ![FaveButton](https://raw.githubusercontent.com/xhamr/fave-button/master/fave-button1.gif)
 
+https://github.com/WelkinXie/WXWaveView
 
+![WXWaveView](http://welkin-xie.oss-cn-shenzhen.aliyuncs.com/github/wave.gif)
  
