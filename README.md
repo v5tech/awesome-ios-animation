@@ -455,3 +455,6 @@ https://github.com/orazz/CreditCardForm-iOS
 https://github.com/Onix-Systems/RainyRefreshControl
 
 ![RainyRefreshControl](https://raw.githubusercontent.com/Onix-Systems/RainyRefreshControl/master/gif/umbrella_refresh.gif)
+
+https://github.com/PhilippeBoisney/ModernSearchBar
+![ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar/blob/master/Gifs/Gif_complex_list.gif?raw=true)
