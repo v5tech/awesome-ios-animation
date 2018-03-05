@@ -518,3 +518,7 @@ https://github.com/Daltron/NotificationBanner
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/status_bar.gif)
+
+https://github.com/Ramotion/fluid-slider
+
+![](https://raw.githubusercontent.com/Ramotion/fluid-slider/master/preview.gif)
