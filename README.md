@@ -474,3 +474,14 @@ https://github.com/marcosgriselli/ViewAnimator
 https://github.com/sunjinshuai/Keep
 
 ![效果图](https://github.com/sunjinshuai/Keep/blob/master/Keep.gif)
+
+https://github.com/loopeer/AlertTransition
+
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/EasyTransition.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BackgroundType.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/changeOrientation.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/MenuTransition.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/TrolleyTransition.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
+![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
+
