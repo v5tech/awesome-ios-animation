@@ -508,3 +508,7 @@ https://github.com/eggswift/ESTabBarController
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif2.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif3.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/LottieGif.gif)
+
+https://github.com/quickbirdstudios/FlippingNotch
+
+![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
