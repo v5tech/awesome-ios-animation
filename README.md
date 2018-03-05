@@ -387,7 +387,7 @@ https://github.com/mentionapp/mntpulltoreact
 
 https://github.com/TBXark/TKRubberIndicator
 
-![Preview](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/TKRubberIndicator/rubberindicator.gif)
+![Preview](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
 
 https://github.com/12207480/TYAlertController
 
