@@ -492,3 +492,19 @@ https://github.com/CosmicMind/Motion
 https://github.com/hachinobu/SamuraiTransition
 
 ![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
+
+https://github.com/eggswift/ESTabBarController
+
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectStyleGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectAnimateGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomBackgroundGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomHighlightGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomImpliesGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomStyle2.png)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomStyle3.png)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/SystemNotificationStyle.png)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNotificationStyle.png)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif2.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif3.gif)
+![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/LottieGif.gif)
