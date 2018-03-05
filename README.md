@@ -522,3 +522,9 @@ https://github.com/Daltron/NotificationBanner
 https://github.com/Ramotion/fluid-slider
 
 ![](https://raw.githubusercontent.com/Ramotion/fluid-slider/master/preview.gif)
+
+https://github.com/vladaverin24/TimelineCards
+
+![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/timeline_feed.gif)
+![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/card_randomized.gif)
+![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/card_samples.gif)
