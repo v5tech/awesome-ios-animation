@@ -12,13 +12,11 @@ https://github.com/facebook/pop
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
- https://github.com/schneiderandre/popping
+https://github.com/schneiderandre/popping
 
-![popping](https://camo.githubusercontent.com/6ab14f37121c61a4b568c38376f0e24984d1aad8/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f31393135303330302f4769746875622f506f7070696e672f706f7070696e672e706e67)
+![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-![popping](https://camo.githubusercontent.com/a7a98afd238fd3e51d50af8389e6c2dfc3577d45/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f31393135303330302f4769746875622f506f7070696e672f706f7070696e672e676966)
-
- https://github.com/MengTo/Spring
+https://github.com/MengTo/Spring
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -26,11 +24,11 @@ https://github.com/facebook/pop
 
 ![](http://cl.ly/image/1n1E2j3W3y24/springscreen.jpg)
 
- https://github.com/jwilling/JNWSpringAnimation
+https://github.com/jwilling/JNWSpringAnimation
 
 ![](http://jwilling.com/serve/github/jnwspringanimation/preview.gif)
 
- https://github.com/daltoniam/DCAnimationKit
+https://github.com/daltoniam/DCAnimationKit
 
  Tada
 ![alt tag](https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/tada.gif)
@@ -71,7 +69,7 @@ https://github.com/facebook/pop
  Rotation
 ![alt tag](https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/rotate.gif)
 
- https://github.com/robb/RBBAnimation
+https://github.com/robb/RBBAnimation
 
 ![](http://robb.is/img/rbbanimation/rainbow.gif)
 ![](http://robb.is/img/rbbanimation/spring.gif)
@@ -79,9 +77,9 @@ https://github.com/facebook/pop
 ![](http://robb.is/img/rbbanimation/bounce.gif)
 ![](http://robb.is/img/rbbanimation/sine-wave.gif)
 
- https://github.com/matthewcheok/POP-MCAnimate
+https://github.com/matthewcheok/POP-MCAnimate
 
- https://github.com/jhurray/JHChainableAnimations
+https://github.com/jhurray/JHChainableAnimations
 
 ![](https://github.com/jhurray/JHChainableAnimations/raw/master/img/logo.png)
 ![](https://raw.githubusercontent.com/jhurray/JHChainableAnimations/master/img/JHChainableAnimationsExample1.png)
@@ -91,9 +89,9 @@ https://github.com/facebook/pop
 ![](https://github.com/jhurray/JHChainableAnimations/raw/master/img/JHChainableAnimationsExample3.png)
 ![](https://github.com/jhurray/JHChainableAnimations/raw/master/Gifs/JHChainableAnimationsExample3.gif)
 
- https://github.com/poetmountain/PMTween
+https://github.com/poetmountain/PMTween
 
- https://github.com/IFTTT/JazzHands
+https://github.com/IFTTT/JazzHands
 
 ![Jazz Hands](https://raw.github.com/IFTTT/JazzHands/screenshots/screenshots/intro.gif)
 
@@ -104,32 +102,32 @@ https://github.com/facebook/pop
 ![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/motionblur.gif)
 ![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/boxblur.gif)
 
- https://github.com/Raizlabs/RZTransitions
+https://github.com/Raizlabs/RZTransitions
 
 ![](https://raw.githubusercontent.com/Raizlabs/RZTransitions/master/Web/RZTransitions.png)
 ![](http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif)
 
- https://github.com/Yalantis/FoldingTabBar.iOS
+https://github.com/Yalantis/FoldingTabBar.iOS
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2003376/tab_bar_animation_fin-02.gif)
 
- https://github.com/Yalantis/Side-Menu.iOS
+https://github.com/Yalantis/Side-Menu.iOS
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1689922/events-menu_1-1-6.gif)
 
- https://github.com/Yalantis/Context-Menu.iOS
+https://github.com/Yalantis/Context-Menu.iOS
 
 ![ContextMenu](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1785274/99miles-profile-light_1-1-4.gif)
 
- https://github.com/Yalantis/GuillotineMenu
+https://github.com/Yalantis/GuillotineMenu
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2018249/draft_06.gif)
 
- https://github.com/Yalantis/Persei
+https://github.com/Yalantis/Persei
 
 ![Preview](https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif)
 
- https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS
+https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
@@ -172,7 +170,6 @@ https://github.com/andreamazz/BubbleTransition
 https://github.com/fitomad/iOS-Bubble-Transition
 
 ![Bubble Transition](https://github.com/fitomad/iOS-Bubble-Transition/blob/master/Bubble.gif?raw=true)
-
 
 https://github.com/carsonperrotti/CNPPopupController
 
@@ -489,3 +486,6 @@ https://github.com/loopeer/AlertTransition
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
+https://github.com/CosmicMind/Material
+
+https://github.com/CosmicMind/Motion
