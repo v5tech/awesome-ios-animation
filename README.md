@@ -489,3 +489,7 @@ https://github.com/loopeer/AlertTransition
 https://github.com/CosmicMind/Material
 
 https://github.com/CosmicMind/Motion
+
+https://github.com/hachinobu/SamuraiTransition
+
+![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
