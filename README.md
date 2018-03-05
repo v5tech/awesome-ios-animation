@@ -528,3 +528,7 @@ https://github.com/vladaverin24/TimelineCards
 ![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/timeline_feed.gif)
 ![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/card_randomized.gif)
 ![](https://raw.githubusercontent.com/vladaverin24/TimelineCards/master/Screenshots/card_samples.gif)
+
+https://github.com/bref-Chan/CCFoldCell
+
+![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)   
