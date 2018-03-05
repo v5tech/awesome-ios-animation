@@ -426,6 +426,10 @@ https://github.com/Ramotion/expanding-collection
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
+https://github.com/Ramotion/folding-cell
+
+![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
+
 https://github.com/daltonclaybrook/tween-controller
 
 ![image](https://raw.githubusercontent.com/daltonclaybrook/tween-controller/master/example.gif)
