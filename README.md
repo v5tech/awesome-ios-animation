@@ -512,3 +512,9 @@ https://github.com/eggswift/ESTabBarController
 https://github.com/quickbirdstudios/FlippingNotch
 
 ![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
+
+https://github.com/Daltron/NotificationBanner
+
+![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
+![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
+![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/status_bar.gif)
