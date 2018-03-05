@@ -462,3 +462,12 @@ https://github.com/younatics/YNDropDownMenu
 ![demo2](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/YNDropDownMenu2.gif)
 ![demo3](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/YNDropDownMenu3.gif)
 
+https://github.com/marcosgriselli/ViewAnimator
+
+![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
+![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
+![vertical](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/vertical.svg)
+![collection](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/collection.svg)
+![collectionX](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/collectionX.svg)
+
+![](https://cdn.dribbble.com/users/702789/screenshots/3816087/preview-messaki.gif)
