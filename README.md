@@ -8,6 +8,10 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 > 该列表不定期更新！
 
+https://github.com/cruisediary/Comets
+
+![](https://raw.githubusercontent.com/cruisediary/Comets/master/README/Comets.gif)
+
 https://github.com/facebook/pop
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
