@@ -535,4 +535,11 @@ https://github.com/vladaverin24/TimelineCards
 
 https://github.com/bref-Chan/CCFoldCell
 
-![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)   
+![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)  
+
+https://github.com/appssemble/appstore-card-transition
+
+![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example1.gif)  
+![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example2.gif)  
+![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example3.gif)  
+![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example4.gif)  
