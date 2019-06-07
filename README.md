@@ -539,7 +539,4 @@ https://github.com/bref-Chan/CCFoldCell
 
 https://github.com/appssemble/appstore-card-transition
 
-![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example1.gif)  
-![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example2.gif)  
-![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example3.gif)  
-![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example4.gif)  
+![image](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example3.gif)    
