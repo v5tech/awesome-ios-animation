@@ -536,3 +536,22 @@ https://github.com/vladaverin24/TimelineCards
 https://github.com/bref-Chan/CCFoldCell
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)   
+
+> gif动画
+
+[UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) 
+![](https://raw.githubusercontent.com/yfme/UIImageView-PlayGIF/master/screenshot2.gif)
+
+[YLGIFImage](https://github.com/liyong03/YLGIFImage)
+![](https://github.com/liyong03/YLGIFImage/raw/master/YLGIFImageDemo/YLGIFImageDemo/joy.gif)
+
+[SwiftyGif](https://github.com/kirualex/SwiftyGif)
+![](https://github.com/kirualex/SwiftyGif/raw/master/example.gif)
+
+> 其他
+
+[KYBezierBounceView](https://github.com/KittenYang/KYBezierBounceView)
+![](https://github.com/KittenYang/KYBezierBounceView/raw/master/demo.gif)
+
+[PeekPop](https://github.com/marmelroy/PeekPop)
+![](https://cloud.githubusercontent.com/assets/1930855/19472280/3a1e7eac-9559-11e6-93e3-ecc35e60699f.gif)
