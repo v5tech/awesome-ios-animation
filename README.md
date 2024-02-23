@@ -536,3 +536,26 @@ https://github.com/vladaverin24/TimelineCards
 https://github.com/bref-Chan/CCFoldCell
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)   
+
+
+
+[lottie-ios](https://github.com/airbnb/lottie-ios)
+
+![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
+![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
+![img3](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Community%202_3.gif)
+
+[hero](https://github.com/HeroTransitions/Hero)
+
+![img1](https://camo.githubusercontent.com/354161ba417f4597889fa60c6b2c592eeaaced64ae2d56b9e43123747f45a355/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
+![img2](https://camo.githubusercontent.com/3ac0f399f766a429ed2234d563c9be514b9652290642eea040d9b80c6a692ea1/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f64656661756c74416e696d6174696f6e73322e737667)
+
+[SkeletonView](https://github.com/Juanpe/SkeletonView)
+
+![img](https://github.com/Juanpe/SkeletonView/raw/main/Assets/gradient_animated.gif)
+
+[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)
+
+[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+
+![img](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
