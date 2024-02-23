@@ -559,3 +559,6 @@ https://github.com/bref-Chan/CCFoldCell
 [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
 ![img](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
+
+[Segmentio](https://github.com/Yalantis/Segmentio)
+![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
