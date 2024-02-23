@@ -546,3 +546,7 @@ https://github.com/airbnb/lottie-ios
 https://github.com/Yalantis/Segmentio
 
 ![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
+
+https://github.com/Yalantis/DisplaySwitcher
+
+![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
