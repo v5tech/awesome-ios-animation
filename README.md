@@ -8,6 +8,10 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 > 该列表不定期更新！
 
+https://github.com/Mindinventory/Mindful-SWIFT-Animation-Library
+
+https://github.com/nikunjprajapati95/Letters-Animation/raw/main/Media/Letters.gif
+
 https://github.com/facebook/pop
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
