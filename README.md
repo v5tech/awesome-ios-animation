@@ -549,4 +549,5 @@ https://github.com/Yalantis/Segmentio
 
 https://github.com/Yalantis/DisplaySwitcher
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for iOS animation workflow orchestration, automated UI development management, and multi-agent coordination. MIT licensed.
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
