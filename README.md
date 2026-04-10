@@ -550,3 +550,4 @@ https://github.com/Yalantis/Segmentio
 https://github.com/Yalantis/DisplaySwitcher
 
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=v5tech_awesome-ios-animation) - Follow mobile devs on GitHub and see what repos they star across iOS, Android, and cross-platform.
